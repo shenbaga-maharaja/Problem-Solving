@@ -1,7 +1,10 @@
 /**
-  * Java Program To Calculate Area Of The Ciecle
+  * Java Program To Calculate Area Of The Circle
   * @shenbaga-maharaja
   * Coded To Code
+  * Input And Output
+	Enter Radius Of Circle : 3
+	Area Of The Circle = 28.274333882308138
 **/
 
 import java.util.Scanner;
