@@ -7,16 +7,16 @@
 	* By Considering The Terms In The Fibonacci Sequence Whose Values Do Not Exceed n, 
 		Find The Sum Of The Even-Valued Terms.
 	* Test Cases
-		fiboEvenSum(10) should return a number.
+		sum(10) should return a number.
 		Your function should return an even value.
 		Your function should sum the even-valued Fibonacci numbers: 
-		fiboEvenSum(8) should return 10.
-		fiboEvenSum(10) should return 10.
-		fiboEvenSum(34) should return 44.
-		fiboEvenSum(60) should return 44.
-		fiboEvenSum(1000) should return 798.
-		fiboEvenSum(100000) should return 60696.
-		fiboEvenSum(4000000) should return 4613732.
+		sum(8) should return 10.
+		sum(10) should return 10.
+		sum(34) should return 44.
+		sum(60) should return 44.
+		sum(1000) should return 798.
+		sum(100000) should return 60696.
+		sum(4000000) should return 4613732.
 	* @shenbaga-maharaja
 	* Coded To Code
 **/
